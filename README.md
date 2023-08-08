@@ -34,6 +34,12 @@ Acredito que o aprendizado seja uma jornada constante, e estou comprometido em a
 
 Além das habilidades técnicas, também possuo conhecimentos em áreas como pacote Office, vendas, sistemas operacionais Windows e Linux, montagem de redes e manutenção de computadores. Esses conhecimentos complementares enriquecem minha compreensão geral de tecnologia e podem ser valiosos em projetos futuros.
 
+### Minhas Estatísticas do GitHub 📊
+
+Aqui estão as minhas estatísticas do GitHub:
+
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FilipeMHottis&show_icons=true&theme=radical)
+
 ### Entre em Contato!
 
 Se você quiser entrar em contato ou se conectar comigo, fique à vontade para usar uma das seguintes opções:
