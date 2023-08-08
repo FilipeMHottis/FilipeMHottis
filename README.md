@@ -34,8 +34,10 @@ Acredito que o aprendizado é uma jornada constante, e estou comprometido em apr
 
 Além das habilidades técnicas, também possuo conhecimentos em áreas como pacote Office, vendas, Windows e Linux, montagem de redes e manutenção de computadores. Esses conhecimentos complementares enriquecem minha compreensão geral de tecnologia e podem ser valiosos em futuros projetos.
 
-## Contato e Conexões
+### Entre em Contato!
 
-Se você quiser entrar em contato ou se conectar comigo, fique à vontade para me encontrar no [LinkedIn](seu-linkedin-aqui). Estou animado com as oportunidades que o futuro trará e estou determinado a contribuir para o desenvolvimento de soluções inovadoras que possam fazer a diferença na vida das pessoas.
+Se você quiser entrar em contato ou se conectar comigo, fique à vontade para usar uma das seguintes opções:
 
-Vamos juntos nessa jornada de crescimento e exploração tecnológica! 🌐👨‍💻
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
