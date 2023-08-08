@@ -8,9 +8,18 @@ Tenho uma história engraçada para compartilhar: quando eu era mais novo, estav
 
 No ano passado, concluí o ensino médio e decidi seguir minha paixão pela tecnologia. Ingressei na Trybe, uma escola de tecnologia que oferece cursos de desenvolvimento web, e tenho me dedicado a aprender e aprimorar minhas habilidades desde então.
 
-### Conhecimentos Atuais 🌐
+### Tecnologias que Conheço 🌐
 
-Nesse momento, estou focado em desenvolver minhas habilidades na área de Desenvolvimento Web. Já possuo conhecimentos sólidos em HTML, CSS e JavaScript, e estou empolgado em estar concluindo o curso de Front-End na Trybe em breve. Além disso, estou estudando tecnologias como React, Redux e TypeScript, que estão me permitindo construir interfaces de usuário interativas e dinâmicas.
+Atualmente, estou focado em desenvolver minhas habilidades na área de Desenvolvimento Web. Já possuo conhecimentos sólidos em tecnologias-chave:
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+Essas ferramentas têm me permitido construir interfaces de usuário interativas e dinâmicas, e estou empolgado em estar concluindo o curso de Front-End na Trybe em breve. Além disso, estou estudando tecnologias como React, Redux e TypeScript, que estão me permitindo construir interfaces de usuário interativas e dinâmicas.
 
 Embora ainda não tenha decidido se quero me especializar em Front-End, Back-End ou ser um Desenvolvedor Full Stack, estou ansioso para começar a explorar o mundo do Back-End em breve.
 
