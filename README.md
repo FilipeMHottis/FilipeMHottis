@@ -39,7 +39,7 @@ Além das habilidades técnicas, também possuo conhecimentos em áreas como pac
 Aqui estão as minhas estatísticas do GitHub:
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FilipeMHottis&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMHottis&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMHottis&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Entre em Contato!
 
