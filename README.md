@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Perfil! 
 
-Olá! Eu sou Filipe Marques Hottis, um entusiasta da tecnologia e futuro Desenvolvedor Web. Com 19 anos, sou natural da Bahia, Brasil. Desde minha infância, fui atraído pelo mundo da tecnologia e sempre passei horas explorando e tentando compreender o funcionamento dos computadores.
+Olá! Eu sou Filipe Marques Hottis, um entusiasta da tecnologia e futuro Desenvolvedor Web. Com 21 anos, sou natural da Bahia, Brasil. Desde minha infância, fui atraído pelo mundo da tecnologia e sempre passei horas explorando e tentando compreender o funcionamento dos computadores.
 
 ## Minha Jornada Tecnológica 🚀
 
